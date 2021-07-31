@@ -1,4 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/GSinister)
 
 <a href="https://github.com/jstrieb/github-stats">
 
